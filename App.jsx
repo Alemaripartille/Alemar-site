@@ -23,7 +23,7 @@ export default function App() {
             </h2>
 
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              Alemar AB hjälper företag med professionell bokföring och lönehantering
+              Vi hjälper företag med professionell bokföring och lönehantering
               genom moderna arbetssätt och personlig service.
             </p>
 
@@ -90,7 +90,7 @@ export default function App() {
           <h2 className="text-4xl font-bold mb-8">Om oss</h2>
 
           <p className="text-lg text-gray-600 leading-relaxed">
-            På Alemar AB arbetar vi med personlig service, tydlig kommunikation
+            På Alemar i Partille AB arbetar vi med personlig service, tydlig kommunikation
             och moderna arbetssätt. Vårt mål är att skapa trygghet och ge företag
             mer tid att fokusera på sin verksamhet.
           </p>
@@ -145,7 +145,7 @@ export default function App() {
       </section>
 
       <footer className="border-t border-gray-200 py-8 text-center text-gray-500">
-        © 2026 Alemar AB. Alla rättigheter förbehållna.
+        © 2026 Alemar i Partille AB. Alla rättigheter förbehållna.
       </footer>
     </div>
   )
