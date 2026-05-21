@@ -3,7 +3,7 @@ export default function App() {
     <div className="bg-warmWhite text-darkText">
       <header className="fixed top-0 left-0 w-full bg-warmWhite/90 backdrop-blur border-b border-gray-200 z-50">
         <div className="max-w-6xl mx-auto flex justify-between items-center px-6 py-4">
-          <h1 className="text-xl font-semibold">Alemar AB</h1>
+          <h1 className="text-xl font-semibold">Alemar i Partille AB</h1>
 
           <nav className="hidden md:flex gap-8 text-sm">
             <a href="#tjanster" className="hover:text-softBlue transition">Tjänster</a>
